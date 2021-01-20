@@ -1,5 +1,5 @@
 ### Hi there 👋
-！[Shinnosuke的github统计信息]（https://github-readme-stats.vercel.app/api？username = PCKxin＆theme = radical＆show_icons = true）
+![Shinnosuke's github stats](https://github-readme-stats.vercel.app/api?username=PCKxin&show_icons=true&theme=radical)
 <!--
 **PCKxin/PCKxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitors](http://PCKxin.cn:4000/get/@PCKxin.readme)
+![Visitors](http://antzuhl.cn:4000/get/@PCKxin.readme)
