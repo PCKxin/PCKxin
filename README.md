@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=PCKxin.readme)
-![Visitors](http://antzuhl.cn:4000/get/@PCKxin.readme)
+![Visitors](https://camo.githubusercontent.com//get/@PCKxin.readme)
