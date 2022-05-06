@@ -1,4 +1,4 @@
-## Hi 这里是Yukimoto👋
+## Hi 这里是Yuki👋
 
 ![Shinnosuke's github stats](https://github-readme-stats.vercel.app/api?username=PCKxin&show_icons=true&theme=radical)
 
