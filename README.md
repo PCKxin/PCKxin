@@ -3,11 +3,7 @@
 ![Shinnosuke's github stats](https://github-readme-stats.vercel.app/api?username=PCKxin&show_icons=true&theme=radical)
 
 目前在学习中
-资源查找是我比较得意的技能
 
-暂时没什么拿得出手的项目
-
-不过可以期待一下😋
 
 <!--
 **PCKxin/PCKxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
